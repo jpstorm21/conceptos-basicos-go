@@ -1,2 +1,3 @@
-# curso-go
-Ejemplos curso GO desde cero EDteam
+# Conceptos basicos
+
+todo lo basico para empezar a desarrollar en Go
